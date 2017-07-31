@@ -1,0 +1,1 @@
+a:2:{s:6:"public";a:3:{s:8:"disabled";s:1:"0";s:2:"ip";s:1:"*";s:8:"commands";s:24:"auth-login,auth-register";}s:14:"custom-profile";a:5:{s:8:"disabled";s:1:"0";s:13:"token-timeout";s:3:"600";s:10:"secret-key";s:17:"my-secret-key-123";s:8:"commands";s:11:"example-get";s:15:"hash-validation";s:1:"1";}}

@@ -12,7 +12,6 @@
  *
  * @package    Index Gateway
  * @author     Kristo Vaher <kristo@waher.net>
- * @copyright  Copyright (c) 2012, Kristo Vaher
  * @license    GNU Lesser General Public License Version 3
  * @tutorial   /doc/pages/gateway.htm
  * @since      1.0.0
